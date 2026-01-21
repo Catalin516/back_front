@@ -9,7 +9,7 @@ fake.add_provider(BookProvider)
 CORS(app)
 data = []
 
-n = 5
+n = 22
 for i in range(n):
     libro = {
         'id': i,
